@@ -3,7 +3,6 @@ Semester long group project in which we built a facial detection program designe
 
 Authors: Mohammad Karami, Deok Kim, Junyoung Kim, Malachi Kitsa, Harish Nagallapati (Group 43)  
 Version: 1.0  
-Date: 2019-11-28  
 Copyright: GNU Public License  
 
 Smart security camera sends email once a face is detected. One of its application is home safety.  
